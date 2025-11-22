@@ -52,6 +52,7 @@ This report presents competitive intelligence on the healthcare AI ambient docum
 |--------|-------------|-----------|------------------|------------------|
 | Nuance/Microsoft | 60+ | 20+ | Epic, Cerner, Meditech, 200+ | Cloud (Azure) |
 | Abridge | 55+ | 28 | Epic (primary), athenahealth | Cloud |
+| Commure/Augmedix | 50+ | 20+ | Epic, Meditech Expanse | Cloud |
 | Nabla | 50+ | 35+ | EHR-agnostic (all major) | Cloud (EU/US) |
 | Heidi Health | 30+ | 110+ transcription | Best Practice, Medical Director, Epic | Cloud |
 | Ambience | 50+ | 15+ | Epic, Cerner | Cloud |
@@ -63,20 +64,21 @@ This report presents competitive intelligence on the healthcare AI ambient docum
 |--------|--------------|-----|----------------|
 | Nuance/Microsoft | Azure OpenAI (GPT-4) | Dragon (proprietary) | 20+ years speech recognition |
 | Abridge | Proprietary full-stack | Proprietary | 1.5M training encounters |
+| Commure/Augmedix | Multi-model (GPT, Claude, open-source) | Custom | Knowledge graph, HCA scale |
 | Nabla | Proprietary (ex-Meta team) | Whisper fine-tuned | 7,000 hours annotated audio |
 | Heidi Health | LLM + ML | Third-party + custom | Australian market optimization |
 | Ambience | Foundation models | Custom | Coding/CDI focus |
 
 ### Beyond-the-Note Capabilities
 
-| Capability | Nuance | Abridge | Nabla | Heidi | Ambience |
-|------------|--------|---------|-------|-------|----------|
-| Auto-coding (ICD-10) | Partner | Yes | Yes | Limited | Yes |
-| CDI (real-time) | Partner | Yes | Yes | No | Yes |
-| CDS | Roadmap | Roadmap | Yes | No | Roadmap |
-| Pre-charting | Yes | Yes | Yes | No | Yes |
-| Patient summaries | Yes | Yes | Yes | Yes | Yes |
-| Revenue cycle | Partner | Yes | Roadmap | No | Yes |
+| Capability | Nuance | Abridge | Commure | Nabla | Heidi | Ambience |
+|------------|--------|---------|---------|-------|-------|----------|
+| Auto-coding (ICD-10) | Partner | Yes | Yes | Yes | Limited | Yes |
+| CDI (real-time) | Partner | Yes | Yes | Yes | No | Yes |
+| CDS | Roadmap | Roadmap | Yes | Yes | No | Roadmap |
+| Pre-charting | Yes | Yes | Yes | Yes | No | Yes |
+| Patient summaries | Yes | Yes | Yes | Yes | Yes | Yes |
+| Revenue cycle | Partner | Yes | Yes | Roadmap | No | Yes |
 
 ### KLAS Ratings (2025)
 
@@ -95,6 +97,7 @@ This report presents competitive intelligence on the healthcare AI ambient docum
 |--------|------------|------------|-------|
 | Nuance DAX | $500-700/provider/month | Volume discounts | 12-month minimum |
 | Abridge | ~$199/provider/month | ~$2,500/year enterprise | 85% below Nuance |
+| Commure/Augmedix | Custom enterprise | Custom | HCA relationship |
 | Nabla | $200-400/provider/month | Custom | Competitive |
 | Heidi Health | AUD pricing | Custom | Free tier available |
 | Freed | $99/provider/month | N/A | SMB only |
@@ -133,6 +136,14 @@ This report presents competitive intelligence on the healthcare AI ambient docum
 | University of Iowa | Peer-reviewed study site |
 | Denver Health | Safety-net |
 | 130+ healthcare organizations | Total |
+
+### Commure/Augmedix
+
+| Customer | Details |
+|----------|---------|
+| HCA Healthcare | Major strategic partnership, ~1% of US clinical visits |
+| Multiple health systems | Enterprise deployments |
+| Hybrid model | AI + human scribe options |
 
 ### Heidi Health
 
@@ -301,6 +312,12 @@ This report presents competitive intelligence on the healthcare AI ambient docum
 - Beyond-the-note capabilities limited
 - International coding (non-Australian) unclear
 - Scale for large enterprise unproven
+
+### Commure/Augmedix
+- US-focused - limited international presence
+- HCA-centric deployment history
+- Hybrid human+AI model transitioning
+- Public information limited (private company)
 
 ### Ambience
 - International presence limited
