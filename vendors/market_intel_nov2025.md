@@ -246,7 +246,7 @@
 | Suki | $70M Series D | Growing | MEDITECH leader | Platform/infra | US-focused |
 | DeepScribe | ~$60M | Niche | AWS Marketplace | Oncology-specific | US-focused |
 | Freed | $30M Series A | SMB | Limited | Basic | US-focused |
-| Ambience | Unicorn | ~13% | TBD | TBD | US-focused |
+| Ambience | $1.25B Unicorn | ~13% | Epic Toolbox, Cerner | Coding (AutoCDI), AVS, Referrals | US-focused |
 
 ---
 
