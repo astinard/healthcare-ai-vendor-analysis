@@ -16,7 +16,7 @@
 
 ## Priority 3 - Emerging Players
 - [ ] DeepScribe
-- [ ] Freed
+- [x] Freed
 - [ ] Heidi Health (Australia - important for Ramsay)
 - [ ] Tali AI
 - [ ] Sunoh.ai
